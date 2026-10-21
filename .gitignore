@@ -1,0 +1,21 @@
+# dependencies (npm install recreates these)
+node_modules/
+
+# build output (npm run build recreates this)
+dist/
+
+# secrets: commit .env.example, never .env
+.env
+.env.*
+!.env.example
+
+# test & logs
+coverage/
+*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
