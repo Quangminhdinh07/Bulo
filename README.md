@@ -17,7 +17,7 @@ Bulo is a personal full-stack project: a React Native (Expo) app plus its own ba
 - **Tooling:** Docker Compose, node-pg-migrate, Vitest + Supertest, GitHub Actions
 
 ## Status
-🚧 Work in progress. The database schema is done; the server skeleton is next.
+Work in progress. The database schema is done; the server skeleton is next.
 
 ## License
 MIT
